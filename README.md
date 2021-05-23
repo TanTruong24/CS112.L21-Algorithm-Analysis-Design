@@ -8,7 +8,13 @@
 | 3 |Nguyễn Thành Luân               | 19521809      | [Thanh Luan](https://github.com/nguyenluan2001)         |19521809@gm.uit.edu.vn     |
 | 4 |Đinh Trọng Tùng Sơn             | 19522132      | [Tung Son](https://github.com/DinhSonpro12)             |19522132@gm.uit.edu.vn     |
 
-### 2. Đề tài Seminar
+### 2. Bài tập Thực hành
+1. Bài tập 1 ngày 19/3/2021: [link1](https://github.com/TanTruong24/CS112.L21-Algorithm-Analysis-Design/blob/main/HomeWork_190321_%231.ipynb)
+2. Bài tập 2 ngày 28/3/2021: [link2](https://github.com/TanTruong24/CS112.L21-Algorithm-Analysis-Design/blob/main/HomeWork_280321_%232.ipynb)
+3. Bài tập 3 ngày 19/4/2021: [link3](https://github.com/TanTruong24/CS112.L21-Algorithm-Analysis-Design/blob/main/HomeWork_190421_%233.ipynb)
+4. Bài tập 4 ngày 17/5/2021: [link4](https://github.com/TanTruong24/CS112.L21-Algorithm-Analysis-Design/blob/main/HomeWork_170521_%234.ipynb)
+
+### 3. Đề tài Seminar
 
 **1. Nội dung:** Giới thiệu phương pháp thiết kế thuật toán: Greedy approach.  
 **2. Giới thiệu:**
