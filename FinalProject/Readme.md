@@ -1,4 +1,4 @@
-# **SEMINAR:** *Greedy Algorithm*
+# **N17_SEMINAR:** *Greedy Algorithm*
 ----------------
 
 
